@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Vibe Coding**
 
-- 💬 Ask me about **HTML, Bootstrap, CSS3**
+- 💬 Ask me about **React, Bootstrap, JavaScript**
 
 - 📫 How to reach me **ant.andreansc@gmail.com**
 
